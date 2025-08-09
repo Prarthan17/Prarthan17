@@ -1,13 +1,21 @@
-### Hello there, I'm K P Prarthan 👋
+Hello there, I'm K P Prarthan 👋
+I'm a final-year Computer Science student with a strong passion for solving complex problems. My academic background has given me a solid foundation in both theoretical concepts like data structures and algorithms, and practical skills in various programming languages.
 
-I'm a final-year **Computer Science student** with a strong passion for solving complex problems using intelligent algorithms. My academic background has given me a solid foundation in both theoretical concepts like **data structures and algorithms**, and practical skills in various programming languages.
+🔭 I'm currently building a smart timetable generator that uses a genetic algorithm to create optimized, conflict-free schedules. This project is a great way to showcase my skills in AI and machine learning.
 
-- 🔭 I'm currently building a **smart timetable generator** that uses a **genetic algorithm** to create optimized, conflict-free schedules. This project is a great way to showcase my skills in **AI** and **machine learning**.
-- 🌱 My key areas of interest are **AI**, **machine learning**, and **web development**, where I'm constantly exploring new ideas and building innovative projects.
-- 💻 My tech stack includes **Java**, **Python**, and **JavaScript**, and I have a deep understanding of core computer science principles.
-- 🤝 I'm open to collaborating on open-source projects and connecting with fellow developers.
+🌱 My key areas of interest are AI, machine learning, and web development, where I'm constantly exploring new ideas and building innovative projects.
 
----
+🤝 I'm open to collaborating on open-source projects and connecting with fellow developers.
+
+Languages and Tools
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,python,js,git,html,css,vscode" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF7F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Algorithms-%235d6d87?style=for-the-badge&logo=codewars&logoColor=white" />
+</a>
+</p>
 
 **Let's connect!**
 
